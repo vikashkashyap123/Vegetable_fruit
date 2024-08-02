@@ -1,0 +1,23 @@
+.parent1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+
+}
+.parent1 img{
+    margin: 1%;
+    height: 100px;
+    width: 100px;
+}
+.box{
+    width: 40%;
+    padding: 3%;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
